@@ -1,0 +1,26 @@
+.site-header{
+    color: cornsilk;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.header-content{
+    margin: 10px;
+}
+
+body{
+    margin: 0;
+    background-color: blueviolet;
+}
+
+.profile-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
